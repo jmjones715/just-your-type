@@ -8,20 +8,20 @@
 
 .blue {
   background-color: #87cefa;
- }
+}
 
 .gray {
   background-color: #7f7f7f;
 }
 
 .black {
-  background-color: #000000;
+  background-color: #000;
 }
 
 .cursive {
-  font-family: 'Marck Script', cursive;
+  font-family: "Marck Script", cursive;
 }
 
 .stoke {
-  font-family: 'Stoke', serif;
+  font-family: "Stoke", serif;
 }
