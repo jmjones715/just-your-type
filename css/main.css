@@ -21,3 +21,7 @@
 .stoke {
   font-family: Stoke, serif;
 }
+
+.halo {
+  transform: rotate(90deg);
+}
