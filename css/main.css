@@ -6,10 +6,6 @@
   color: #c9bc31;
 }
 
-.blue {
-  background-color: #87cefa;
-}
-
 .gray {
   background-color: #7f7f7f;
 }
@@ -23,5 +19,5 @@
 }
 
 .stoke {
-  font-family: "Stoke", serif;
+  font-family: Stoke, serif;
 }
